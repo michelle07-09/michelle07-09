@@ -9,10 +9,16 @@
 
 <br>
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=michelle07-09&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle07-09&layout=compact&theme=default&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="45%" valign="top">
+
+### GitHub stats
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=michelle07-09&show_icons=true&theme=dark&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle07-09&layout=compact&theme=dark&hide_border=true" />
+
+</td>
+<td width="55%" valign="top">
 
 ### Skills
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -34,8 +40,9 @@
 | [Chromata](https://chromata-omega.vercel.app) | React · k-means |
 | [michellesaham.com](https://michellesaham.com) | Flask · React · MongoDB |
 
+</td>
+</tr>
+</table>
+
 ### Contribution graph
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=michelle07-09&theme=github-compact&hide_border=true)
-
-### Contribution snake
-![Snake](https://raw.githubusercontent.com/michelle07-09/michelle07-09/output/github-contribution-grid-snake.svg)
