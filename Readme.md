@@ -14,7 +14,7 @@
 <td width="42%" valign="top">
 
 ### GitHub stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?michelle07-09=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+![Michelle's GitHub stats](https://github-stats-extended-frontend-gray.vercel.app.vercel.app/api?username=michelle07-09&show_icons=true)
 </td>
 <td width="58%" valign="top">
 
