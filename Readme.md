@@ -4,7 +4,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/michelle-hamdani-250023388/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/michelle07-09" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://rakhaportofolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4B2E?style=for-the-badge" /></a>
+  <a href="https://michelle-hamdani-cv.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4B2E?style=for-the-badge" /></a>
 </p>
 
 <br>
