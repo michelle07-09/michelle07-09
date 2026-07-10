@@ -14,11 +14,7 @@
 <td width="42%" valign="top">
 
 ### GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?michelle07-09=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 </td>
 <td width="58%" valign="top">
 
