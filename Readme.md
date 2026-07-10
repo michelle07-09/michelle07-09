@@ -13,8 +13,7 @@
 <tr>
 <td width="42%" valign="top">
 
-### GitHub stats
-![Michelle's GitHub stats](https://github-stats-extended-frontend-ys1a.vercel.app/api?username=michelle07-09&show_icons=true&count_private=true)
+
 </td>
 <td width="58%" valign="top">
 
