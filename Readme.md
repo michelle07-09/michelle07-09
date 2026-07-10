@@ -14,8 +14,7 @@
 <td width="42%" valign="top">
 
 
-</td>
-<td width="58%" valign="top">
+
 
 ### Skills
 **Design**
