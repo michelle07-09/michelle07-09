@@ -1,4 +1,4 @@
-<h1 align="left">Hi, My name is Michelle 👋</h1>
+<h1 align="left">Michelle 👋</h1>
 <p align="left">UI/UX Designer & Information Systems student, ITB. Intern at Urbansolv.</p>
 
 <p align="left">
@@ -14,8 +14,8 @@
 <td width="42%" valign="top">
 
 ### GitHub stats
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/michelle07-09&label=Repos&query=public_repos&style=flat-square&color=1A1A1A)
-![Followers](https://img.shields.io/github/followers/michelle07-09?style=flat-square&label=Followers&color=1A1A1A)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmichelle07-09&label=Repos&query=%24.public_repos&style=flat-square&color=1A1A1A)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmichelle07-09&label=Followers&query=%24.followers&style=flat-square&color=1A1A1A)
 
 *(pulled live from GitHub's own API — no third-party render service, so it won't go down)*
 
