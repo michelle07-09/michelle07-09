@@ -1,4 +1,4 @@
-<h1 align="left">Michelle 👋</h1>
+<h1 align="left">Hi, My Name is Michelle 👋</h1>
 <p align="left">UI/UX Designer & Information Systems student, ITB. Intern at Urbansolv.</p>
 
 <p align="left">
