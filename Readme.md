@@ -44,8 +44,7 @@
 ![COBIT](https://img.shields.io/badge/COBIT_2019-1A1A1A?style=flat-square)
 ![TOGAF](https://img.shields.io/badge/TOGAF-1A1A1A?style=flat-square)
 
-</td>
-<td width="58%" valign="top">
+
 ### Projects
 | Project | Stack |
 |---|---|
