@@ -14,15 +14,13 @@
 <td width="42%" valign="top">
 
 ### GitHub stats
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmichelle07-09&label=Repos&query=%24.public_repos&style=flat-square&color=1A1A1A)
-![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmichelle07-09&label=Followers&query=%24.followers&style=flat-square&color=1A1A1A)
-
-*(pulled live from GitHub's own API — no third-party render service, so it won't go down)*
+![Stats](https://github-readme-stats.vercel.app/api?username=michelle07-09&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 </td>
 <td width="58%" valign="top">
 
 ### Skills
+
 **Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Design Systems](https://img.shields.io/badge/Design_Systems-1A1A1A?style=flat-square)
@@ -61,6 +59,6 @@
 </table>
 
 ### Contribution graph
-![Contribution chart](https://ghchart.rshah.org/1A1A1A/michelle07-09)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=michelle07-09&theme=github-compact&hide_border=true&area=true)
 
-<sub>Heatmap via ghchart — public, stable, reads GitHub's contribution data directly, no fork needed.</sub>
+<sub>Stats card & activity graph via github-readme-stats / github-readme-activity-graph — public Vercel instance, hosted, no fork perlu.</sub>
