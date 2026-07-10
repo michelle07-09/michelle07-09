@@ -11,12 +11,34 @@
 
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="55%" valign="top">
 
+### Projects
+| Project | Stack |
+|---|---|
+| [ParkITB](https://github.com/michelle07-09/ParkITB) — flagship | React Native · Supabase |
+| [Lumière](https://lumiere-silk.vercel.app) | React · Supabase |
+| [Chromata](https://chromata-omega.vercel.app) | React · k-means |
+| [michellesaham.com](https://michellesaham.com) | Flask · React · MongoDB |
+| [Feely](https://github.com/michelle07-09/Feely) | React |
+| [Nook](https://github.com/michelle07-09/Nook) | React Native |
+| [Invoice_App](https://github.com/michelle07-09/Invoice_App) | React · Supabase |
+| [Tarot-Reading](https://github.com/michelle07-09/Tarot-Reading) | React |
+| [Perhitungan_Saham](https://github.com/michelle07-09/Perhitungan_Saham) | Python |
+| [AI_PlantDisease](https://github.com/michelle07-09/AI_PlantDisease) | PyTorch · CNN |
+| [CoreAlign](https://github.com/michelle07-09/CoreAlign) | React · FastAPI |
+| [github-stats-extended](https://github.com/michelle07-09/github-stats-extended) | Node.js |
+| [Umbrella-rental-app](https://github.com/michelle07-09/Umbrella-rental-app) | React Native |
+| [Youtube_shorts_ai](https://github.com/michelle07-09/Youtube_shorts_ai) | Python |
+| [Kopi-Kalapa](https://github.com/michelle07-09/Kopi-Kalapa) | React |
+| [Galery_App_Photora](https://github.com/michelle07-09/Galery_App_Photora) | React Native |
+| [foodexpress-catering-app](https://github.com/michelle07-09/foodexpress-catering-app) | React · Flask |
 
-
+</td>
+<td width="45%" valign="top">
 
 ### Skills
+
 **Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Design Systems](https://img.shields.io/badge/Design_Systems-1A1A1A?style=flat-square)
@@ -41,15 +63,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![COBIT](https://img.shields.io/badge/COBIT_2019-1A1A1A?style=flat-square)
 ![TOGAF](https://img.shields.io/badge/TOGAF-1A1A1A?style=flat-square)
-
-
-### Projects
-| Project | Stack |
-|---|---|
-| [ParkITB](https://github.com/michelle07-09) — flagship | React Native · Supabase |
-| [Lumière](https://lumiere-silk.vercel.app) | React · Supabase |
-| [Chromata](https://chromata-omega.vercel.app) | React · k-means |
-| [michellesaham.com](https://michellesaham.com) | Flask · React · MongoDB |
 
 </td>
 </tr>
