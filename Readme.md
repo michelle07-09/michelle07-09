@@ -20,7 +20,6 @@
 <td width="58%" valign="top">
 
 ### Skills
-
 **Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Design Systems](https://img.shields.io/badge/Design_Systems-1A1A1A?style=flat-square)
